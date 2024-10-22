@@ -1,0 +1,15 @@
+{
+  "name": "tianyi-utils",
+  "version": "1.0.0",
+  "description": "A javascript library from complex scenarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js-tool",
+    "js-library"
+  ],
+  "author": "tianyi",
+  "license": "MIT"
+}
